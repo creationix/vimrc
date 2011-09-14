@@ -1,5 +1,6 @@
 " Vim color file
 " Maintainer:	Piotr Husiatyński <phusiatynski@gmail.com>
+" Modified: Tim Caswell
 
 set background=dark
 set t_Co=256
@@ -9,7 +10,7 @@ let python_highlight_all = 1
 let c_gnu = 1
 
 
-hi Normal	    ctermfg=253         ctermbg=235        cterm=None
+hi Normal	    ctermfg=253         ctermbg=232        cterm=None
 hi Cursor       ctermfg=Red         ctermbg=None       cterm=None
 hi SpecialKey	ctermfg=87          ctermbg=None       cterm=Bold
 hi Directory	ctermfg=76          ctermbg=None       cterm=None
