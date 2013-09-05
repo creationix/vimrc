@@ -6,7 +6,7 @@ set expandtab
 set softtabstop=2
 set tabstop=2
 set t_Co=256                                                                    
-colorscheme distinguished
+colorscheme 256-grayvim
 set guifont=Menlo\ Regular:h18
 syn on
 au BufRead,BufNewFile *.jk setfiletype jack
